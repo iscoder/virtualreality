@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Roof &amp; Floor</string>
+
+    <string name="search_hint">search</string>
+    <string name="empty_list_msg">No Results</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
